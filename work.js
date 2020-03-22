@@ -7,7 +7,7 @@ let work = [
     company: "Cambridge College, Bolivia",
     country: "Bolivia",
     state: "Santa Cruz",
-    description: ,
+    description: "Increase the English language skills of my students for international examination \nMake and implement annual, bimester, and weekly lesson plans  \nMaintain a nourishing learning environment in a classroom with 30+ students \nBuild relationships with parents and colleagues",
   }, 
   {
     id: 2,
@@ -17,7 +17,7 @@ let work = [
     company: "Accent Advisor",
     country: "USA",
     state: "New York",
-    description: "",
+    description: "Corrected American accents with a detail-oriented approach \nBuilt relationships with my adult students through innovation of teaching methods",
   }, 
   {
     id: 4,
@@ -27,7 +27,7 @@ let work = [
     company: "Natural English ",
     country: "Bolivia	",
     state: "Santa Cruz	",
-    description: "",
+    description: "Explained English concepts to students at all ranges of fluency \nWorked with students aged 12-60+"
   }, 
   {
     id: 3,
@@ -37,7 +37,7 @@ let work = [
     company: "Dada Education Ltd.",
     country: "China",
     state: "Shanghai",
-    description: "",
+    description: "Provided consistent quality in the instruction of students aged 4-18 \nCreated detailed daily feedback for parents to track their children’s progress",
   }, 
   {
     id: 5,
@@ -47,7 +47,7 @@ let work = [
     company: "BYU OIT",
     country: "USA",
     state: "Utah",
-    description: "",
+    description: "Served customers in areas of LMS, Domain support, and others \nMonitored Network Devices \nTrained other agents",
   }, 
   {
     id: 6,
@@ -57,7 +57,7 @@ let work = [
     company: "ServiceMaster by Webb",
     country: "USA",
     state: "Mississippi",
-    description: "",
+    description: "Performed detailed cleaning and restoration of carpets and houses with fire-, and flood- damage",
   }, 
   {
     id: 7,
@@ -67,7 +67,7 @@ let work = [
     company: "C-Spire Inc.",
     country: "USA",
     state: "Mississippi",
-    description: "",
+    description: "Assisted in the installation of a ring of telecommunications radios \nDemonstrated highly precise work in challenging conditions",
   }, 
   {
     id: 8,
@@ -77,46 +77,8 @@ let work = [
     company: "Church of Jesus Christ of Latter Day Saints",
     country: "Ukraine",
     state: "Kyivska oblast",
-    description: "",
+    description: "Acquired Russian skills in a challenging environment \nLead and instructed groups of 8 - 12 volunteers \nTaught English Classes to local residents ages 8 - 60+",
   }, 
 ];
 
-let portfolio = [
-  {
-    id: 2,
-    title: "Music Room",
-    description: "A website to showcase my wife's music classes",
-    url: "music.daniellandry.me",
-  },
-  {
-    id: 4,
-    title: "Magic Dog Generator",
-    description: "Implements two APIs to generate a random dog and assign it magical properties",
-    url: "magicdog.daniellandry.me",
-  },
-  {
-    id: 1,
-    title: "BorisArte Photography",
-    description: "A photography website built with HTML and CSS to showcase the photographer of my wedding",
-    url: "lab1.daniellandry.me",
-  },
-  {
-    id: 3,
-    title: "Weather App",
-    description: "Implements the OpenWeather API to get the weather from a given city and display it",
-    url: "lab2.daniellandry.me",
-  },
-  {
-    id: 5,
-    title: "XKCD Browser",
-    description: "Uses Vue to implement the XKCD API, allowing comments and ratings",
-    url: "lab3.daniellandry.me",
-  },
-  {
-    id: 6,
-    title: "Mock Store",
-    description: "Uses Vue to build a a store with a functional cart",
-    url: "lab3b.daniellandry.me",
-  },
-];
-
+export default work;
